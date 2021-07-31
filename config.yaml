@@ -5,6 +5,13 @@ subject: 'cat:cs.* OR cat:stat.*'
 keywords:
         security: 3
         cyber: 2
+        threat: 2
+        vulnerability: 2
+        asset: 2
+        risk: 2
+        confidentiality: 2
+        attestation: 2
+        integrity: 2
         anomaly detection: 1
 
 # 通知の閾値
