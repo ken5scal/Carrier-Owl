@@ -12,6 +12,9 @@ keywords:
         confidentiality: 2
         attestation: 2
         integrity: 2
+        asset management: 2
+        asset: 2
+        osint: 2
         anomaly detection: 1
 
 # 通知の閾値
